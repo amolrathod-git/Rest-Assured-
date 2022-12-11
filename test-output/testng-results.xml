@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-10T08:50:12 IST" name="Default suite" finished-at="2022-12-10T08:50:18 IST" duration-ms="6210">
+    <groups>
+    </groups>
+    <test started-at="2022-12-10T08:50:12 IST" name="Default test" finished-at="2022-12-10T08:50:18 IST" duration-ms="6210">
+      <class name="com.rest.postmantests.AutomatePost">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.rest.postmantests.AutomatePost@4738a206]" started-at="2022-12-10T08:50:12 IST" name="beforeClass" finished-at="2022-12-10T08:50:12 IST" duration-ms="656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="validateDelete()[pri:0, instance:com.rest.postmantests.AutomatePost@4738a206]" started-at="2022-12-10T08:50:12 IST" name="validateDelete" finished-at="2022-12-10T08:50:16 IST" duration-ms="3566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDelete -->
+        <test-method signature="validatePost()[pri:0, instance:com.rest.postmantests.AutomatePost@4738a206]" started-at="2022-12-10T08:50:16 IST" name="validatePost" finished-at="2022-12-10T08:50:18 IST" duration-ms="1940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePost -->
+      </class> <!-- com.rest.postmantests.AutomatePost -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
